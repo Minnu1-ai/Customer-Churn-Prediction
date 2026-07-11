@@ -175,6 +175,6 @@ Machine Learning Enthusiast
 
 GitHub: https://github.com/Minnu1-ai
  
-LinkedIn: https://linkedin.com/in/minahil-fatima-2a4a3941a
+LinkedIn: https://linkedin.com/in/minnu-fatima
 
 ## ⭐ If you found this project helpful, please consider giving it a Star!
